@@ -10,7 +10,7 @@ My goal is to keep learning, practise in legal lab environments, document my pro
 
 ---
 
-## 🛡️ What I'm Learning
+## 🛡️ What I've Learnt
 
 - 🌐 **Networking Fundamentals** — TCP/IP, protocols, ports, and network concepts
 - 🐧 **Linux Fundamentals** — Linux commands, permissions, and working in a terminal
