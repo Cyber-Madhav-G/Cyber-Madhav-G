@@ -1,73 +1,72 @@
-# Hi, I'm Madhav Gupta 👋
+<h1 align="center">Hi, I'm Madhav Gupta 👋</h1>
+<p align="center"><b>Cybersecurity Learner | Aspiring Penetration Tester</b></p>
+<p align="center"><i>"Learning to break things, so I can learn how to protect them."</i></p>
 
-### Cybersecurity Learner | Aspiring Penetration Tester
+---
+
+## 👨‍💻 About Me
 
 I'm a Computer Science Engineering student at **Thapar Institute of Engineering & Technology, India**, with a strong interest in cybersecurity, ethical hacking, and understanding how systems can be secured.
 
-I'm currently building my foundations in penetration testing and focusing on **web application security through PortSwigger Web Security Academy**.
+I'm currently building my foundations in penetration testing and focusing on **web application security** through PortSwigger Web Security Academy. My approach is simple: learn the concept, practise it in a legal lab, document it, repeat.
 
-My goal is to keep learning, practise in legal lab environments, document my progress, and build practical cybersecurity skills one step at a time.
+## 🛡️ What I've Covered So Far
 
----
-
-## 🛡️ What I've Learnt
-
-- 🌐 **Networking Fundamentals** — TCP/IP, protocols, ports, and network concepts
-- 🐧 **Linux Fundamentals** — Linux commands, permissions, and working in a terminal
-- 🔎 **Reconnaissance** — Information gathering and target enumeration
-- 🧪 **Web Application Security** — Learning web vulnerabilities through PortSwigger Web Security Academy
-- 💥 **Penetration Testing** — Exploring Burp Suite, Metasploit, and introductory pentesting workflows
-
-## 🧰 Tools & Technologies
-
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
+- 🌐 **Networking** — TCP/IP, DNS, HTTP, ports, subnetting
+- 🐧 **Linux** — command line, file system, permissions, Bash basics
+- 🔎 **Reconnaissance** — passive and active recon, OSINT basics
+- 🧪 **Burp Suite** — proxy setup, intercepting requests, Repeater and Intruder basics
+- 💥 **Metasploit** — introductory modules and exploitation workflow
 
 ## 📚 Currently Working On
 
-**Web Hacking — PortSwigger Web Security Academy**
+**Web Hacking — [PortSwigger Web Security Academy](https://portswigger.net/web-security)**
 
-- Learning how web applications work and where vulnerabilities occur.
-- Practising web security labs and understanding the underlying concepts.
-- Improving my ability to intercept, analyse, and manipulate HTTP requests using Burp Suite.
-- Documenting useful concepts, lab learnings, and notes as I progress.
+- SQL Injection (SQLi)
+- Cross-Site Scripting (XSS)
+- Authentication vulnerabilities
+- Understanding how web apps work and where vulnerabilities appear
+- Writing up lab notes as I go
 
-🔗 [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+## 🎯 Roadmap
 
-## 🎯 My Goals
+- [ ] Complete the PortSwigger learning paths
+- [ ] TryHackMe / Hack The Box labs
+- [ ] Python and Bash scripting for security tasks
+- [ ] Web app pentesting and bug bounty basics
+- [ ] Build a portfolio of notes, scripts and write-ups
 
-- [ ] Strengthen my networking and Linux knowledge.
-- [ ] Build a solid understanding of common web vulnerabilities.
-- [ ] Complete PortSwigger labs and document my learning.
-- [ ] Practise penetration testing in authorised lab environments.
-- [ ] Build a GitHub portfolio of notes, scripts, and practical projects.
-- [ ] Develop a deeper understanding of how vulnerabilities are discovered, exploited, and prevented.
+## 🧰 Tools & Technologies
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-0078D4?style=for-the-badge&logo=metasploit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Currently exploring:** `Nmap` · `Gobuster` · `Wireshark` · `John the Ripper`
 
 ## 📂 What You'll Find Here
 
-As I progress, this GitHub profile will contain:
+| Folder | Contents |
+|---|---|
+| `notes/` | Cybersecurity and networking revision notes |
+| `writeups/` | Web security lab write-ups |
+| `scripts/` | Small scripts and practical experiments |
+| `resources/` | Useful learning resources |
 
-- 📖 Cybersecurity and networking notes
-- 🧪 Web security lab write-ups
-- 🛠️ Small scripts and practical experiments
-- 📝 Learning resources and revision notes
-- 🚀 Projects that demonstrate my growing skills
+> This profile is a work in progress and will grow as I do.
 
-I'm still learning, and this profile will grow with me. I believe in understanding the fundamentals, practising consistently, and documenting what I learn.
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/your-username)
+- 🐦 X (Twitter): [@MADHAVGUPTA28](https://x.com/MADHAVGUPTA28)
+- 🧪 TryHackMe: [your-profile](https://tryhackme.com/p/your-username)
 
 ---
 
-### 🤝 Let's Connect
-
-I'm always interested in learning more about cybersecurity, ethical hacking, and web application security.
-
-**Learn. Practise. Document. Repeat.** 🔐
-
-*All security testing and lab work is performed in authorised environments.*
+<p align="center">
+<b>Learn. Practise. Document. Repeat.</b> 🔐<br>
+<sub>All security testing and lab work is performed in authorised environments only.</sub>
+</p>
