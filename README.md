@@ -60,9 +60,7 @@ I'm currently building my foundations in penetration testing and focusing on **w
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/your-username)
-- 🐦 X (Twitter): [@MADHAVGUPTA28](https://x.com/MADHAVGUPTA28)
-- 🧪 TryHackMe: [your-profile](https://tryhackme.com/p/your-username)
+- 💼 LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/madhav-gupta-28343a328/)
 
 ---
 
