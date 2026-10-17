@@ -60,7 +60,7 @@ I'm currently building my foundations in penetration testing and focusing on **w
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/madhav-gupta-28343a328/)
+- 💼 LinkedIn: [MadhavGupta](https://www.linkedin.com/in/madhav-gupta-28343a328/)
 
 ---
 
